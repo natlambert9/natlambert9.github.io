@@ -1,0 +1,5 @@
+#header1{color:rgb(51, 9, 51); font-family: fantasy;margin: 20px;}
+li{list-style: square;}
+.nav{display:flex; margin: 50px; background-color: rgb(92, 92, 116);padding: 20px;gap: 50px;}
+.professionalsummary{background-color: blueviolet;border: 5px solid; color: black;padding: 15px;}
+.skillset{background-color: blueviolet;border: 5px solid; color: black;padding: 15px;display: flex;}
